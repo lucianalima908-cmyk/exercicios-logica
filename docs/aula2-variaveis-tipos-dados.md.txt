@@ -1,0 +1,78 @@
+# Variáveis e Tipos de Dados na Lógica de Programação
+
+## O que são Variáveis?
+
+Na lógica de programação, variáveis são espaços reservados na memória do computador que servem para armazenar informações que podem ser utilizadas e modificadas durante a execução de um algoritmo.
+
+Podemos imaginar uma variável como uma "caixa" que guarda um valor. Essa caixa possui um nome, que é usado para acessar o valor armazenado.
+
+Exemplo em pseudocódigo:
+
+idade = 25
+nome = "Luciana"
+
+No exemplo acima:
+- A variável **idade** armazena o número 25.
+- A variável **nome** armazena o texto "Luciana".
+
+As variáveis permitem que o programa manipule dados de forma dinâmica, tornando possível realizar cálculos, comparações e tomadas de decisão.
+
+---
+
+## O que são Tipos de Dados?
+
+Os tipos de dados definem que tipo de informação uma variável pode armazenar. Cada tipo possui características específicas e é usado para finalidades diferentes dentro do programa.
+
+Os principais tipos de dados são:
+
+### 1. Inteiro (int)
+Armazena números sem parte decimal.
+Exemplos:
+- 10
+- -5
+- 200
+
+### 2. Decimal ou Real (float / double)
+Armazena números com parte decimal.
+Exemplos:
+- 3.14
+- 9.99
+- -2.5
+
+### 3. Texto (string)
+Armazena palavras, frases ou caracteres.
+O texto geralmente é escrito entre aspas.
+Exemplos:
+- "Olá"
+- "Programação"
+- "Luciana Lima"
+
+### 4. Booleano (boolean)
+Armazena apenas dois valores possíveis:
+- verdadeiro (true)
+- falso (false)
+
+É muito utilizado em estruturas de decisão.
+
+Exemplo:
+aprovado = true
+
+---
+
+## Importância na Lógica de Programação
+
+Variáveis e tipos de dados são fundamentais na lógica de programação porque permitem:
+
+- Armazenar informações
+- Realizar cálculos
+- Comparar valores
+- Criar condições e decisões
+- Controlar o fluxo do programa
+
+Sem variáveis e tipos de dados, não seria possível desenvolver algoritmos eficientes e funcionais.
+
+---
+
+## Conclusão
+
+As variáveis são elementos essenciais que armazenam dados em um programa, enquanto os tipos de dados determinam o formato e o comportamento dessas informações. Compreender esses conceitos é um dos primeiros passos para desenvolver habilidades em programação e construção de algoritmos.
